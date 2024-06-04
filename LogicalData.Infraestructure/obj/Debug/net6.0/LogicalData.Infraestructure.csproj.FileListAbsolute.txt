@@ -1,0 +1,15 @@
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\bin\Debug\net6.0\LogicalData.Infraestructure.deps.json
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\bin\Debug\net6.0\LogicalData.Infraestructure.dll
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\bin\Debug\net6.0\LogicalData.Infraestructure.pdb
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\bin\Debug\net6.0\LogicalData.Domain.dll
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\bin\Debug\net6.0\LogicalData.Domain.pdb
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\obj\Debug\net6.0\LogicalData.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\obj\Debug\net6.0\LogicalData.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\obj\Debug\net6.0\LogicalData.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\obj\Debug\net6.0\LogicalData.Infraestructure.AssemblyInfo.cs
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\obj\Debug\net6.0\LogicalData.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\obj\Debug\net6.0\LogicalD.9E41F9CA.Up2Date
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\obj\Debug\net6.0\LogicalData.Infraestructure.dll
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\obj\Debug\net6.0\refint\LogicalData.Infraestructure.dll
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\obj\Debug\net6.0\LogicalData.Infraestructure.pdb
+C:\Users\jordi\Desktop\.net\API\LogicalData.Infraestructure\obj\Debug\net6.0\ref\LogicalData.Infraestructure.dll

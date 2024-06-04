@@ -1,0 +1,11 @@
+Solo en caso de encontrar la carpeta context vacia:
+
+1. Entrar a la consola de Administrador de paquetes NuGet en el apartado de 'Herramientas' en la barra de tareas de Visual Studio 2022.
+
+2. Posicionarse en el apartado de 'Proyecto predeterminado' en 'LogicalData.Data'.
+
+3. En la consola que brinda PM> escribir el siguiente script: Scaffold-DbContext "Server=DESKTOP-3G95FA4\SQLEXPRESS; Database=LogicalDataDB; Trusted_Connection=True; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Context
+
+4. Importante señalar que el Server es el servidor sql del gestor de base de datos propio, por lo que es necesario cambiarlo al nombre del servidor sql del equipo donde se esta ejecutando la migracion
+
+Con esto se logra la migracion de la base al context.
