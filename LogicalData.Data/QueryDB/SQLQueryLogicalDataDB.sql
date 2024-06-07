@@ -1,4 +1,4 @@
-drop database LogicalDataDB
+
 --- ==================================================
 --- Autor: Jordi Segura Madrigal
 --- Fecha: 3/06/2024

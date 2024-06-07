@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qk72urPISyo=",
+  "dgSpecHash": "ly4HVrwrU2k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Domain\\LogicalData.Domain.csproj",
+  "projectFilePath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Domain\\LogicalData.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

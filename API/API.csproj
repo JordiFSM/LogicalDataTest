@@ -17,10 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\LogicalData.Data\LogicalData.Data.csproj" />
     <ProjectReference Include="..\LogicalData.Domain\LogicalData.Domain.csproj" />
     <ProjectReference Include="..\LogicalData.Infraestructure\LogicalData.Infraestructure.csproj" />

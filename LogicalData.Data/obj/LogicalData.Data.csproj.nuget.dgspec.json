@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Data\\LogicalData.Data.csproj": {}
+    "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\LogicalData.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Data\\LogicalData.Data.csproj": {
+    "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\LogicalData.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Data\\LogicalData.Data.csproj",
+        "projectUniqueName": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\LogicalData.Data.csproj",
         "projectName": "LogicalData.Data",
-        "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Data\\LogicalData.Data.csproj",
+        "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\LogicalData.Data.csproj",
         "packagesPath": "C:\\Users\\jordi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Data\\obj\\",
+        "outputPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

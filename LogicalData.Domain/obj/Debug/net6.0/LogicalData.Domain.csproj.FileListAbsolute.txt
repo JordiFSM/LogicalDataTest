@@ -9,3 +9,15 @@ C:\Users\jordi\Desktop\.net\API\LogicalData.Domain\obj\Debug\net6.0\LogicalData.
 C:\Users\jordi\Desktop\.net\API\LogicalData.Domain\obj\Debug\net6.0\refint\LogicalData.Domain.dll
 C:\Users\jordi\Desktop\.net\API\LogicalData.Domain\obj\Debug\net6.0\LogicalData.Domain.pdb
 C:\Users\jordi\Desktop\.net\API\LogicalData.Domain\obj\Debug\net6.0\ref\LogicalData.Domain.dll
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\bin\Debug\net6.0\LogicalData.Domain.deps.json
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\bin\Debug\net6.0\LogicalData.Domain.dll
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\bin\Debug\net6.0\LogicalData.Domain.pdb
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\obj\Debug\net6.0\LogicalData.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\obj\Debug\net6.0\LogicalData.Domain.AssemblyInfoInputs.cache
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\obj\Debug\net6.0\LogicalData.Domain.AssemblyInfo.cs
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\obj\Debug\net6.0\LogicalData.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\obj\Debug\net6.0\LogicalData.Domain.sourcelink.json
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\obj\Debug\net6.0\LogicalData.Domain.dll
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\obj\Debug\net6.0\refint\LogicalData.Domain.dll
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\obj\Debug\net6.0\LogicalData.Domain.pdb
+C:\Users\jordi\Desktop\.net\LogicalData\LogicalData.Domain\obj\Debug\net6.0\ref\LogicalData.Domain.dll

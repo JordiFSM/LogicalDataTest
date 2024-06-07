@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jordi\\Desktop\\.net\\API\\API\\API.csproj": {}
+    "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jordi\\Desktop\\.net\\API\\API\\API.csproj": {
+    "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jordi\\Desktop\\.net\\API\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\API\\API.csproj",
+        "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\API\\API.csproj",
         "packagesPath": "C:\\Users\\jordi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\API\\obj\\",
+        "outputPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Data\\LogicalData.Data.csproj": {
-                "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Data\\LogicalData.Data.csproj"
+              "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\LogicalData.Data.csproj": {
+                "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\LogicalData.Data.csproj"
               },
-              "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Domain\\LogicalData.Domain.csproj": {
-                "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Domain\\LogicalData.Domain.csproj"
+              "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Domain\\LogicalData.Domain.csproj": {
+                "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Domain\\LogicalData.Domain.csproj"
               },
-              "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Infraestructure\\LogicalData.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Infraestructure\\LogicalData.Infraestructure.csproj"
+              "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Infraestructure\\LogicalData.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Infraestructure\\LogicalData.Infraestructure.csproj"
               }
             }
           }
@@ -102,14 +102,14 @@
         }
       }
     },
-    "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Data\\LogicalData.Data.csproj": {
+    "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\LogicalData.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Data\\LogicalData.Data.csproj",
+        "projectUniqueName": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\LogicalData.Data.csproj",
         "projectName": "LogicalData.Data",
-        "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Data\\LogicalData.Data.csproj",
+        "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\LogicalData.Data.csproj",
         "packagesPath": "C:\\Users\\jordi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Data\\obj\\",
+        "outputPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -183,14 +183,14 @@
         }
       }
     },
-    "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Domain\\LogicalData.Domain.csproj": {
+    "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Domain\\LogicalData.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Domain\\LogicalData.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Domain\\LogicalData.Domain.csproj",
         "projectName": "LogicalData.Domain",
-        "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Domain\\LogicalData.Domain.csproj",
+        "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Domain\\LogicalData.Domain.csproj",
         "packagesPath": "C:\\Users\\jordi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Domain\\obj\\",
+        "outputPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -248,14 +248,14 @@
         }
       }
     },
-    "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Infraestructure\\LogicalData.Infraestructure.csproj": {
+    "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Infraestructure\\LogicalData.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Infraestructure\\LogicalData.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Infraestructure\\LogicalData.Infraestructure.csproj",
         "projectName": "LogicalData.Infraestructure",
-        "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Infraestructure\\LogicalData.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Infraestructure\\LogicalData.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\jordi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -277,8 +277,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Domain\\LogicalData.Domain.csproj": {
-                "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\API\\LogicalData.Domain\\LogicalData.Domain.csproj"
+              "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\LogicalData.Data.csproj": {
+                "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Data\\LogicalData.Data.csproj"
+              },
+              "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Domain\\LogicalData.Domain.csproj": {
+                "projectPath": "C:\\Users\\jordi\\Desktop\\.net\\LogicalData\\LogicalData.Domain\\LogicalData.Domain.csproj"
               }
             }
           }
@@ -300,7 +303,7 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[13.0.1, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -308,7 +311,7 @@
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[7.1.2, )"
+              "version": "[7.3.1, )"
             }
           },
           "imports": [
